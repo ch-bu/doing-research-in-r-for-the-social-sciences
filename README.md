@@ -1,4 +1,4 @@
-# Reproducible research in R for the social sciences
+# Reproducible research in R 
 
 There are several reasons to make your research reproducible. First of all, you want to be able to reproduce how you evaluated your data years later. Many scientists store their documents in folders and subfolders without a certain order. If then errors occur in the data evaluation, you don't know when and where the error occurred. On the other hand, it should be possible for other people to understand your data analysis. As scientists, we want to know how you arrived at your results in order to make an informed decision about whether your data is trustworthy. 
 
