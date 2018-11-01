@@ -1,0 +1,23 @@
+---
+title: "Exploratory Data Analysis"
+author: "Christian Burkhart"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The goal of an exploratory data analysis is to better understand your data. The easiest way to understand data is to ask questions and answer them exploratively. Explorative data analysis is a creative process, so it's not about asking a lot of questions, but asking questions that help you better understand your data. 
+
+## Variation
+
+## Missing values
+
+## Covaration
+
+## Patterns
+
+## Central findings
+
+
