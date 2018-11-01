@@ -34,3 +34,4 @@ This repository includes a template for R and R-Studio that gives you a pre-stru
 ## Further information
 
 * [http://ropensci.github.io/reproducibility-guide/sections/introduction/](http://ropensci.github.io/reproducibility-guide/sections/introduction/)
+* [https://github.com/ropensci/rrrpkg](https://github.com/ropensci/rrrpkg)
